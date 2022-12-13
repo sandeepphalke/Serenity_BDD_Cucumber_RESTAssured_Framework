@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"This has all possible scenarios for creating employee","Create an employee for company","SUCCESS","2022-12-13T19:24:48.587+05:30[Asia/Calcutta]","0.0","4.23"
+"This has all possible scenarios for getting employees","Getting all employees from company","SUCCESS","2022-12-13T19:24:52.846+05:30[Asia/Calcutta]","0.0","0.15"
+"Looking up post codes","Looking up locations by post code","SUCCESS","2022-12-13T19:24:53.06+05:30[Asia/Calcutta]","0.0","2.02"
